@@ -109,7 +109,7 @@
     transition: all .3s ease-out;
     z-index: -10;
     position: relative;
-    padding-top: 5.625rem;
+    padding-top: 6.625rem;
     text-align: center;
 
     @mixin atMedium {
